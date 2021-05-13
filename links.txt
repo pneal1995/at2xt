@@ -1,0 +1,18 @@
+https://www.vcfed.org/forum/forum/genres/handhelds-portables/57223-compaq-portable-i-corroded-keyboard
+
+ Female connector that plugs into the keyboard, fat side up:
+
+ [123]
+ |456|
+
+ 1: GND
+ 2: VCC (+12V)
+ 3: GND
+ 4: RST?
+ 5: DATA
+ 6: CLK
+
+
+https://geekhack.org/index.php?topic=110819.0
+https://www.pjrc.com/store/teensy.html
+https://geekhack.org/index.php?topic=17458.0
